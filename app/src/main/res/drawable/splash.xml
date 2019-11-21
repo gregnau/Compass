@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item android:drawable="@color/colorPrimaryDark"/>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/ic_compass_icon"/>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/fg_splash"
+        android:top="160dp"/>
+</layer-list>
